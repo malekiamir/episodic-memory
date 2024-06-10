@@ -1,5 +1,5 @@
 """
-Layers to construct the VSLNet model.
+Layers to construct the VSLBase model.
 """
 import math
 
